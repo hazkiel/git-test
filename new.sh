@@ -1,5 +1,5 @@
 function hello(){
-	echo "hello"
+	echo "helloing"
 }
 
 function test() {
