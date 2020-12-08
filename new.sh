@@ -3,7 +3,7 @@ function hello(){
 }
 
 function test() {
-	echo "test"
+	echo "testing"
 }
 
 hello
