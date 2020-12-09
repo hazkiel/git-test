@@ -10,3 +10,4 @@ function test() {
 
 hello
 #1234
+#1234
